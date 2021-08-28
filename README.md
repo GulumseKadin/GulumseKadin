@@ -1,8 +1,8 @@
-### Hi there, I'm Şerifhan - Isıklı [Goliaht][website] 👋
+### Hi there, I'm Şerifhan Isıklı - Goliaht [For Coding Challenge Profile][website] 👋
 
 ## I'm a Developer,Engineer!!
 
-- 🔭 I'm working on this right now: [Being Happy][course]!
+- 🔭 I'm working on this right now: [Volkswagen Turkey][course]!
 - 🌱 I am trying to learn many things. Of course, I know that it is close to impossible to do this. 🤣
 - 👯 I plan to work in Europe and America
 - 🥅 2021-2022 Goals: I want to contribute to my projects every day
