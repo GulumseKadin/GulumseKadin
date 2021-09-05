@@ -44,11 +44,11 @@
 ---
 
 [website]: https://leetcode.com/goliaht/
-[course]: https://ticariarac.vw.com.tr/
+[course]: https://www.vw.com.tr/
 [twitter]: https://www.youtube.com/channel/UCPgDzbHbAlj_TbjSxwoL8xQ
 [youtube]: https://www.youtube.com/channel/UCPgDzbHbAlj_TbjSxwoL8xQ
 [instagram]: https://www.youtube.com/channel/UCPgDzbHbAlj_TbjSxwoL8xQ
-[linkedin]: https://www.youtube.com/channel/UCPgDzbHbAlj_TbjSxwoL8xQ
+[linkedin]: https://www.linkedin.com/in/serifhan-isikli1/
 [webdevplaylist]: https://www.youtube.com/channel/UCPgDzbHbAlj_TbjSxwoL8xQ
 [jsplaylist]: https://www.youtube.com/channel/UCPgDzbHbAlj_TbjSxwoL8xQ
 [cssplaylist]: https://www.youtube.com/channel/UCPgDzbHbAlj_TbjSxwoL8xQ
