@@ -4,7 +4,7 @@
 
 - 🔭 I'm working on this right now: [Volkswagen Turkey][course]!
 - 🌱 I am trying to learn many things. Of course, I know that it is close to impossible to do this. 🤣
-- 👯 I plan to work in Europe and America
+- 👯 I am open to job opportunities in the America or Europe
 - 🥅 2021-2022 Goals: I want to contribute to my projects every day
 - ⚡ My Hobbies: I'm learning to play the guitar, I love reading (too much) and bodybuilding
 
