@@ -2,11 +2,11 @@
 
 ## I'm a Developer,Engineer!!
 
-- 🔭 I'm working on this right now: [Volkswagen Turkey][course]!
-- 🌱 I am trying to learn many things. Of course, I know that it is close to impossible to do this. 🤣
-- 👯 I am open to job opportunities in the America or Europe
-- 🥅 2021-2022 Goals: I want to contribute to my projects every day
-- ⚡ My Hobbies: I'm learning to play the guitar, I love reading (too much) and bodybuilding
+- 🔭 I'm working on this right now: [Volkswagen Turkey][course] / [CookieSeal][cookie]!
+- 🌱 On the way to full stack
+- 👯 About job opportunities : I am open to job opportunities in the America or Europe
+- 🥅 My github destination for a while: I want to contribute to my projects every day
+- ⚡ My hobbies: I'm learning to play the guitar, I love reading (too much) and bodybuilding
 
 ### Connect with me:
 
@@ -46,6 +46,7 @@
 
 [website]: https://leetcode.com/goliaht/
 [course]: https://www.vw.com.tr/
+[cookie]: https://cookieseal.com/
 [twitter]: https://www.youtube.com/channel/UCPgDzbHbAlj_TbjSxwoL8xQ
 [youtube]: https://www.youtube.com/channel/UCPgDzbHbAlj_TbjSxwoL8xQ
 [instagram]: https://www.youtube.com/channel/UCPgDzbHbAlj_TbjSxwoL8xQ
