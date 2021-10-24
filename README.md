@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Volkswagen](https://covid-19-tracker-e4bda.web.app/)** and **[CookieSeal](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Volkswagen](https://www.vw.com.tr/)** and **[CookieSeal](https://cookieseal.com/)**
 
 - 🌱 I’m currently learning **Vue,Nuxt,**
 
