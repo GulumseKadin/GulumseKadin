@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently working on **[Volkswagen](https://www.vw.com.tr/)** and **[CookieSeal](https://cookieseal.com/)**
 
-- 🌱 I’m currently learning in FrontEnd **Vue,Nuxt,**
-- - 🌱 I’m currently learning in BackEnd **.NET CORE**
+- 🌱 I’m currently learning in FrontEnd **Vue,Nuxt**
+- 🌱 I’m currently learning in BackEnd **.NET CORE**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
