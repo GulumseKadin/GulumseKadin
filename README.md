@@ -10,6 +10,7 @@
 
 - 🌱 I’m currently learning in FrontEnd **Vue,Nuxt**
 - 🌱 I’m currently learning in BackEnd **.NET CORE**
+- 🌱 I’m currently learning in Mobile **Flutter/Dart**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
