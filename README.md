@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Volkswagen](https://www.vw.com.tr/)**,**[Blockchain Discussion Platform](https://www.vw.com.tr/),**[D-Wallet (CryptoCurrency Wallet App (on develop)](https://play.google.com/store/apps/developer?id=Do%C4%9Fu%C5%9F+Teknoloji&hl=en_US&gl=US) and **[CookieSeal](https://cookieseal.com/)**
+- 🔭 I’m currently working on **[Volkswagen](https://www.vw.com.tr/)**,**[Blockchain Discussion Platform](https://www.vw.com.tr/),**[D-Wallet (CryptoCurrency Wallet App (on develop)](https://play.google.com/store/apps/developer?id=Do%C4%9Fu%C5%9F+Teknoloji&hl=en_US&gl=US)** and **[CookieSeal](https://cookieseal.com/)**
 
 - 🌱 I’m currently learning in FrontEnd **NextJS**
 - 🌱 I’m currently learning in BackEnd **Django**
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.linkedin.com/in/serifhan-isikli1/)**
 
-- 📫 How to contact me **serifhaniskl@gmail.com**/**isikliserifhan@gmail.com**/ or Linkedin
+- 📫 How to contact me **serifhaniskl@gmail.com**/**isikliserifhan@gmail.com**/ or **[Linkedin](https://www.linkedin.com/in/serifhan-isikli1/)**
 
 - ⚡ Fun fact **Bodybuilding / Music / Cycling / Motorcyle**
 
