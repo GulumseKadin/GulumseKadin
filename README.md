@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.linkedin.com/in/serifhan-isikli1/)**
 
-- 📫 How to contact me **serifhaniskl@gmail.com**/**isikliserifhan@gmail.com**/ or **[Linkedin](https://www.linkedin.com/in/serifhan-isikli1/)**
+- 📫 How to contact me **serifhaniskl@gmail.com** or **[Linkedin](https://www.linkedin.com/in/serifhan-isikli1/)**
 
 - ⚡ Fun fact **Bodybuilding / Music / Cycling / Motorcyle**
 
