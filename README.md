@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Şerifhan Işıklı</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Turkey.</h3>
 
+## 🚀🚀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/GulumseKadin/count.svg)
 
 ## 🙋‍♂️ About Me
