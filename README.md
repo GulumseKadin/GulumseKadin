@@ -11,8 +11,9 @@
 
 - 🔭 I’m currently working on **[Volkswagen](https://www.vw.com.tr/)**,**[Blockchain Discussion Platform](https://www.vw.com.tr/),**[D-Wallet (CryptoCurrency Wallet App (on develop)](https://play.google.com/store/apps/developer?id=Do%C4%9Fu%C5%9F+Teknoloji&hl=en_US&gl=US)** and **[CookieSeal](https://cookieseal.com/)**
 
+For medium -> **[My Articles](https://medium.com/@gulumsekadin)**
+
 - 🌱 I’m currently learning in FrontEnd **NextJS**
-- 🌱 I’m currently learning in BackEnd **Django**
 - 🌱 I’m currently learning in Mobile **Swift/iOs**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
